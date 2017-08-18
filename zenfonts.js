@@ -33,7 +33,7 @@
 
 /*jshint devel:true, asi:true */
 
-this.zenfonts = (function (doc) {
+module.exports = function (doc) {
 	"use strict"
 
 	// The width of this font(s) is compared to the web fonts:
@@ -190,6 +190,6 @@ this.zenfonts = (function (doc) {
 
 	}
 
-})(document);
+};
 
 

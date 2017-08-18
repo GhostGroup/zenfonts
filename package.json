@@ -1,6 +1,6 @@
 {
 	"name": "zenfonts",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "A module to observe and control the loading of web fonts",
 	"main": "zenfonts.js",
 	"files": ["zenfonts.js", "zenfonts-min.js"],
